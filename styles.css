@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 449px) {
 
     div#container {
         display: flex;
@@ -29,7 +29,7 @@
     }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 450px) {
 
     div#container {
         display: flex;
